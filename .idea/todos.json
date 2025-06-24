@@ -1,17 +1,7 @@
 [
   {
-    "owner": "Pascal",
-    "text": "Initiales Setup des Projekts auf GitHub",
-    "done": true
-  },
-  {
     "owner": "Pupi",
-    "text": "Erste ToDo-Funktion im Frontend testen",
-    "done": false
-  },
-  {
-    "owner": "Pascal",
-    "text": "todos.json Datei einpflegen und committen",
+    "text": " Du kleiner Huensohne",
     "done": false
   }
 ]
